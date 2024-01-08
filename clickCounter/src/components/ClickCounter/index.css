@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.heading {
+  color: #2d3a35;
+}
+.count {
+  color: #c20a72;
+}
+.para {
+  color: #2d3a35;
+}
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  border-radius: 3px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 17px;
+  padding-right: 17px;
+  border: 0px;
+}
